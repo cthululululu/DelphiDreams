@@ -1,2 +1,2 @@
 # DelphiDreams
-Mood Journal and Dream Decipher
+Mood and Dream journal integrated with AI for personal reflection
